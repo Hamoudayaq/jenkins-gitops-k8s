@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: hamyaq/devopswithyaq:13
+      - image: hamyaq/devopswithyaq:14
         name: flaskdemo
         resources: {}
 status: {}
